@@ -51,7 +51,7 @@
 
 ### skills/interests
 * obi: npl clustering; urban flow; python
-* melda: some text processing; economic development; 
+* melda: some text processing; economic development; remote sensing; python
 * sam: playing with uncertainty of data, some figures underreported or classified differently; python
 * bea: networks and percolation; community clustering; developmental aspect and link with public policy; 
 * bonnie: text analysis, clustering literature; flow data communicating flow data; R
