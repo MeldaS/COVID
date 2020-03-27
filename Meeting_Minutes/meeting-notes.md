@@ -2,6 +2,42 @@
 
 ## _yyyy-mm-dd_ _meeting title_
 
+## 2020-03-27 Kaggle COVID Meeting 2
+
+### agenda
+* Update on any progress
+* Identify overlaps and collaborations
+* Next meeting
+
+Melda suggested focussing on making a contribution to a covid repose project firstly and then seeing how this fits in with the Kaggle challenge
+
+Sam in talks with telephonica contact in Chile. They are looking at mobility with phone data already. Also interested in how distancing & gov directive are implemented in developing countires with less powerful gov mechanisms.
+
+Need to identify suitable sources of data for developing countries.
+
+NO2 levels can be detected from satellite imagry. Use this to look at where social distancing is taking place.
+- could improve on blogs and articles so far by having a time lapse visualisation
+- indicate when new gov directives were implemented
+- try to identify the effect of gov directive from NO2 levels
+- try to compare between countries who implemented similar directives
+- could also use twitter data as well as NO2 as an indicator of disruption/cases
+
+
+Outputs
+* timelapse NO2 levels for multiple countries
+* comparison of before and after gov directives within country
+* comparison of before and and 
+* can twitter data be disaggregated to identify local surges in covid-19 twitter activity that are distinct from global surges
+
+Next Meeting
+* 2nd April 10:00 am uk time
+
+Noteable Links
+* Google Doc of covid-19 research docs: https://docs.google.com/document/d/1JWeD1AaIGKMPry_EN8GjIqwX4J4KLQIAqP09exZ-ENI/edit
+* 	
+
+
+
 ## 2020-03-24 Kaggle COVID Meeting 1
 
 
@@ -41,6 +77,12 @@
 ** we can add value by linking to public policy, transport & flows, geodemographics
 ** this virus is unprecedented compared to other viruses, how useful is previous research...?
 
+As we understand how the virus spreads, modeling for micro-scale level lockdowns vs. country scale lockdowns.
+Understand the spread of the virus in relation to demographic household structure in two or three countries.
+The post-peak period: the implementation of social distancing in various arenas of our daily life, will it be necessary?
+The impact of transport systems in the speed transmission of the virus, analysing two countries.
+
+
 
 ### Data
 * we can add our own data sets to Kaggle, so don't need to be limited to research archives.
@@ -52,7 +94,7 @@
 ### skills/interests
 * obi: npl clustering; urban flow; python
 * melda: some text processing; economic development; remote sensing; python
-* sam: playing with uncertainty of data, some figures underreported or classified differently; python
+* sam: CDR, XDR, work on the effectiveness of social distancing; python
 * bea: networks and percolation; community clustering; developmental aspect and link with public policy; 
 * bonnie: text analysis, clustering literature; flow data communicating flow data; R
 * matt: remote sensing, spatial interaction modelling; R
