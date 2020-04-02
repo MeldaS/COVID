@@ -14,3 +14,10 @@ This spreadsheet lists
   - where the virus has hit refugee populations and how/if it is affecting the way aid and support is provided to these populations - sometimes adding to current local challenges
   - list political decision being currently taken & political changes - related to the coronavirus epidemic - that are affecting as a whole displaced people & refugees 
   - list what one can do to help (aside making donations which are very needed right now) 
+
+- https://coronavirus.jhu.edu/map.html \
+John Hopkins interactive COVID tracker
+
+- https://github.com/CSSEGISandData/COVID-19 \
+Johns Hopkins repo for their website
+
