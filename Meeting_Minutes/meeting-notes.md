@@ -2,6 +2,17 @@
 
 ## _yyyy-mm-dd_ _meeting title_
 
+## 2020-04-02 Kaggle COVID Meeting 3
+
+Outputs/To dos:
+* Consider reproducing Economist analysis on link between air pollution (PM2.5) and covid mortality
+* Could also incorporate PM2.5 or other air pollution data into Red Cross vulnerability index
+* Find some sources of air pollution data
+* Think about how to 'normalise' NO2 estimates from satellite imagery in order to identify change due to lock down restrictions
+* APIs for world confirmed cases data (John Hopkins)
+* Global demographic data - DHS (Demographic Health Survey) - Need to apply for the data, takes about 5 days in normal times
+
+
 ## 2020-03-27 Kaggle COVID Meeting 2
 
 ### agenda
