@@ -21,3 +21,4 @@ John Hopkins interactive COVID tracker
 - https://github.com/CSSEGISandData/COVID-19 \
 Johns Hopkins repo for their website
 
+- [World Bank COVID trade flows](https://www.worldbank.org/en/data/interactive/2020/04/02/database-on-coronavirus-covid-19-trade-flows-and-policies)
